@@ -1,0 +1,19 @@
+2024-08-22 23:53:00.685 | DEBUG    | harbourmaster.hardware:device_info:513 - DEVICE INFO: {'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-22 23:53:00.911 | WARNING  | harbourmaster.source:_load_images:728 - Port image abbayedesmorts.zip - screenshot for unknown port.
+2024-08-22 23:53:00.913 | WARNING  | harbourmaster.source:_load_images:728 - Port image classicube.zip - screenshot for unknown port.
+2024-08-22 23:53:00.914 | WARNING  | harbourmaster.source:_load_images:728 - Port image devbootleg.zip - screenshot for unknown port.
+2024-08-22 23:53:00.915 | WARNING  | harbourmaster.source:_load_images:728 - Port image jestershelper.zip - screenshot for unknown port.
+2024-08-22 23:53:00.917 | WARNING  | harbourmaster.source:_load_images:728 - Port image legbreaker.zip - screenshot for unknown port.
+2024-08-22 23:53:00.918 | WARNING  | harbourmaster.source:_load_images:728 - Port image netsurf.zip - screenshot for unknown port.
+2024-08-22 23:53:00.919 | WARNING  | harbourmaster.source:_load_images:728 - Port image operius.zip - screenshot for unknown port.
+2024-08-22 23:53:00.921 | WARNING  | harbourmaster.source:_load_images:728 - Port image redo.zip - screenshot for unknown port.
+2024-08-22 23:53:00.922 | WARNING  | harbourmaster.source:_load_images:728 - Port image superdungeonmuncher.zip - screenshot for unknown port.
+2024-08-22 23:53:00.923 | WARNING  | harbourmaster.source:_load_images:728 - Port image utyellow.zip - screenshot for unknown port.
+2024-08-22 23:53:00.932 | WARNING  | harbourmaster.source:_load_images:728 - Port image pocketcrystalleague.zip - screenshot for unknown port.
+2024-08-22 23:53:00.934 | WARNING  | harbourmaster.source:_load_images:728 - Port image render96ex.zip - screenshot for unknown port.
+2024-08-22 23:53:00.968 | DEBUG    | harbourmaster.harbour:load_ports:602 - unlink /storage/roms/ports/roguelight/roguelight.port.json
+2024-08-22 23:53:01.058 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: 351Files.sh
+2024-08-22 23:53:01.071 | DEBUG    | harbourmaster.harbour:load_ports:898 - Dumping /storage/roms/ports/roguelight/roguelight.port.json: {'version': 3, 'name': 'roguelight.zip', 'items': ['Roguelight.sh', 'roguelight/'], 'items_opt': None, 'attr': {'title': 'Roguelight', 'desc': 'The deeper you travel the darker it gets, and you only have your arrows to light the way.', 'inst': 'Download game from https://managore.itch.io/roguelight. The .exe download is actually a compressed archive; open it 7-zip or some other archiver to extract the files. Copy data.win and .mp3 files to /ports/roguelight/gamedata', 'genres': ['platformer'], 'porter': ['mattyj513'], 'image': {'screenshot': 'screenshot.png', 'covers': ['cover.png'], 'thumbnail': None, 'video': None}, 'rtr': False, 'exp': False, 'runtime': None, 'reqs': [], 'arch': ['armhf']}, 'status': {'source': 'Unknown', 'md5': None, 'status': 'Installed'}, 'files': {'Roguelight.sh': 'Roguelight.sh', 'roguelight/': 'roguelight/'}}
+2024-08-22 23:53:01.093 | DEBUG    | harbourmaster.platform:get_gcd_mode:290 - PlatformAmberELEC: Get GCD Mode: standard
+2024-08-22 23:53:01.115 | INFO     | harbourmaster.harbour:check_runtime:1644 - Installing Solarus 1.6.5
+2024-08-22 23:53:01.990 | DEBUG    | harbourmaster.platform:runtime_install:203 - PlatformAmberELEC: Runtime Install solarus-1.6.5.squashfs

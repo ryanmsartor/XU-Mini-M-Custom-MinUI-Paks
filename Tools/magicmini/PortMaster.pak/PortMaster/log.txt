@@ -1,0 +1,15 @@
+2022-03-11 07:54:01.827 | DEBUG    | harbourmaster.config:<module>:109 - HM_DEFAULT_TOOLS_DIR:   /storage/roms/ports
+2022-03-11 07:54:01.830 | DEBUG    | harbourmaster.config:<module>:110 - HM_DEFAULT_PORTS_DIR:   /storage/roms/ports
+2022-03-11 07:54:01.831 | DEBUG    | harbourmaster.config:<module>:111 - HM_DEFAULT_SCRIPTS_DIR: /storage/roms/ports
+librga:RGA_GET_VERSION:4.00,4.000000 
+ctx=0x20cb69c0,ctx->rgaFd=3 
+2022-03-11 07:54:03.730 | WARNING  | __main__:main:1979 - No internet connection found, running in offline mode.
+Rga built version:e791643d 
+2022-03-11 07:54:04.710 | ERROR    | harbourmaster.harbour:load_ports:872 - Port am2r.zip missing AM2R.sh.
+2022-03-11 07:54:04.713 | ERROR    | harbourmaster.harbour:load_ports:872 - Port apotris.zip missing Apotris.sh.
+0: 1
+Display size: 640x480
+{'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+Opening 0
+Segmentation fault
+Failed to restart oga_events.service: Unit oga_events.service not found.

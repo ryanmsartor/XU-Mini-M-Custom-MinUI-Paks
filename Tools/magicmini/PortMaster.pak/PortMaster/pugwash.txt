@@ -1,0 +1,107 @@
+2024-08-06 22:15:15.761 | INFO     | __main__:__init__:490 - SDL DLL: /usr/lib/libSDL2.so,  2.28.5
+2024-08-06 22:15:15.763 | INFO     | __main__:__init__:491 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.20.2
+2024-08-06 22:15:15.764 | INFO     | __main__:__init__:492 - IMG DLL: /usr/lib/libSDL2_image.so, 2.8.1
+2024-08-06 22:15:15.765 | INFO     | __main__:__init__:493 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.6.3
+2024-08-06 22:15:15.766 | INFO     | __main__:__init__:503 - Opened GameController 0: b'retrogame_joypad'
+2024-08-06 22:15:15.767 | INFO     | __main__:__init__:504 -  b'19009b4d4b4800000111000000010000,retrogame_joypad,platform:Linux,x:b2,a:b1,b:b0,y:b3,back:b8,start:b9,dpleft:b15,dpdown:b14,dpright:b16,dpup:b13,leftshoulder:b4,lefttrigger:b6,rightshoulder:b5,righttrigger:b7,leftstick:b11,rightstick:b12,leftx:a0,lefty:a1,rightx:a2,righty:a3,crc:4d9b,'
+2024-08-06 22:15:15.779 | INFO     | __main__:__init__:560 - {'device': 'rgb30', 'name': 'plumOS', 'version': '2024_03_31_23-32', 'resolution': (720, 720), 'analogsticks': 2, 'cpu': 'rk3566', 'capabilities': ['power', '1:1', '720x720', 'hires', '1gb', 'en_US']}
+2024-08-06 22:15:15.879 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/roms/ports/PortMaster/pylibs/default_theme/theme.json
+2024-08-06 22:15:17.767 | INFO     | __main__:portmaster_check_update:1711 - Checking for updates: 2024.07.29-0950 vs 8.5.13
+2024-08-06 22:15:33.530 | WARNING  | harbourmaster.util:download:386 - No md5 to check against: e66b077dc375ce6ba45dc395c24811b4
+2024-08-06 22:15:33.534 | INFO     | harbourmaster.harbour:_install_portmaster:1157 - Installing PortMaster.zip
+2024-08-06 22:15:34.391 | INFO     | harbourmaster.platform:set_gcd_mode:78 - PlatformBase: Set GCD Mode None
+2024-08-06 22:15:35.972 | INFO     | harbourmaster.harbour:_fix_permissions:1111 - Fixing permissions for /storage/roms/ports.
+2024-08-06 22:15:43.745 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2024-08-06 22:15:43.746 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2024-08-06 22:15:43.747 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.28.5
+2024-08-06 22:15:43.748 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.20.2
+2024-08-06 22:15:43.749 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.8.1
+2024-08-06 22:15:43.750 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.6.3
+2024-08-06 22:15:43.751 | INFO     | __main__:__init__:530 - Opened GameController 0: b'retrogame_joypad'
+2024-08-06 22:15:43.752 | INFO     | __main__:__init__:531 -  b'19009b4d4b4800000111000000010000,retrogame_joypad,platform:Linux,x:b2,a:b1,b:b0,y:b3,back:b8,start:b9,dpleft:b15,dpdown:b14,dpright:b16,dpup:b13,leftshoulder:b4,lefttrigger:b6,rightshoulder:b5,righttrigger:b7,leftstick:b11,rightstick:b12,leftx:a0,lefty:a1,rightx:a2,righty:a3,crc:4d9b,'
+2024-08-06 22:15:43.776 | INFO     | __main__:__init__:592 - {'device': 'rgb30', 'name': 'plumOS', 'version': '2024_03_31_23-32', 'resolution': (720, 720), 'analogsticks': 2, 'cpu': 'rk3566', 'capabilities': ['power', 'armhf', 'aarch64', 'restore', '1:1', '720x720', 'plumOS', 'rgb30', 'analog_0', 'analog_1', 'analog_2', 'hires', '1gb', 'ja_JP'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-06 22:15:43.892 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/roms/ports/PortMaster/pylibs/default_theme/theme.json
+2024-08-06 22:16:44.301 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2024-08-06 22:16:44.303 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2024-08-06 22:16:44.311 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.28.5
+2024-08-06 22:16:44.313 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.20.2
+2024-08-06 22:16:44.314 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.8.1
+2024-08-06 22:16:44.315 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.6.3
+2024-08-06 22:16:44.316 | INFO     | __main__:__init__:530 - Opened GameController 0: b'RetroGame Joypad'
+2024-08-06 22:16:44.317 | INFO     | __main__:__init__:531 -  b'19009b4d4b4800000111000000010000,RetroGame Joypad,a:b1,b:b0,back:b8,dpdown:b14,dpleft:b15,dpright:b16,dpup:b13,leftshoulder:b4,leftstick:b11,lefttrigger:b6,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b12,righttrigger:b7,rightx:a2,righty:a3,start:b9,x:b2,y:b3,platform:Linux,'
+2024-08-06 22:16:44.338 | INFO     | __main__:__init__:592 - {'device': 'rgb30', 'name': 'plumOS', 'version': '2024_03_31_23-32', 'resolution': (720, 720), 'analogsticks': 2, 'cpu': 'rk3566', 'capabilities': ['power', 'armhf', 'aarch64', 'restore', '1:1', '720x720', 'plumOS', 'rgb30', 'analog_0', 'analog_1', 'analog_2', 'hires', '1gb', 'ja_JP'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-06 22:16:44.453 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/roms/ports/PortMaster/pylibs/default_theme/theme.json
+2024-08-25 01:38:50.067 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2024-08-25 01:38:50.069 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2024-08-25 01:38:50.071 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.0.22
+2024-08-25 01:38:50.072 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.0.14
+2024-08-25 01:38:50.074 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.0.5
+2024-08-25 01:38:50.077 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.0.4
+2024-08-25 01:38:50.079 | INFO     | __main__:__init__:530 - Opened GameController 0: b'GO-Super Gamepad'
+2024-08-25 01:38:50.081 | INFO     | __main__:__init__:531 -  b'190000004b4800000011000000010000,GO-Super Gamepad,x:b2,a:b3,b:b1,y:b0,back:b8,start:b9,dpleft:h0.2,dpdown:h0.1,dpright:h0.8,dpup:h0.4,leftshoulder:b4,lefttrigger:b7,leftstick:b10,rightshoulder:b5,righttrigger:b6,rightstick:b11,guide:b12,leftx:a0,lefty:a1,rightx:a3,righty:a2,platform:Linux,'
+2024-08-25 01:38:50.128 | INFO     | __main__:__init__:592 - {'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-25 01:38:50.195 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/TF1/ports/PortMaster/pylibs/default_theme/theme.json
+2024-08-25 01:38:51.226 | INFO     | __main__:portmaster_check_update:1846 - Checking for updates: 2024.07.29-0950 vs 2024.07.29-0950
+2024-08-25 01:38:58.318 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: 351Files.sh
+2024-08-25 01:39:28.517 | INFO     | harbourmaster.harbour:_install_port:1434 - Installing Mire
+2024-08-25 01:39:31.136 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: 351Files.sh
+2024-08-25 01:40:00.364 | INFO     | harbourmaster.harbour:_install_port:1434 - Installing FreeSiege
+2024-08-25 01:40:03.810 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: 351Files.sh
+2024-08-25 01:41:24.434 | INFO     | harbourmaster.harbour:_install_port:1434 - Installing LieroLibre
+2024-08-25 01:41:27.271 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: 351Files.sh
+2022-03-11 07:36:57.360 | WARNING  | __main__:main:1979 - No internet connection found, running in offline mode.
+2022-03-11 07:36:57.537 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2022-03-11 07:36:57.539 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2022-03-11 07:36:57.540 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.0.22
+2022-03-11 07:36:57.542 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.0.14
+2022-03-11 07:36:57.544 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.0.5
+2022-03-11 07:36:57.545 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.0.4
+2022-03-11 07:36:57.547 | INFO     | __main__:__init__:530 - Opened GameController 0: b'GO-Super Gamepad'
+2022-03-11 07:36:57.548 | INFO     | __main__:__init__:531 -  b'190000004b4800000011000000010000,GO-Super Gamepad,x:b0,a:b1,b:b3,y:b2,back:b8,start:b9,dpleft:h0.2,dpdown:h0.1,dpright:h0.8,dpup:h0.4,leftshoulder:b4,lefttrigger:b7,rightshoulder:b5,righttrigger:b6,leftstick:b10,guide:b12,leftx:a0,lefty:a1,rightx:a2,righty:a3,platform:Linux,'
+2022-03-11 07:36:57.602 | INFO     | __main__:__init__:592 - {'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2022-03-11 07:36:57.685 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/TF2/Tools/magicmini/PortMaster.pak/PortMaster/pylibs/default_theme/theme.json
+2022-03-11 07:36:58.551 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: launch.sh
+2022-03-11 07:36:58.553 | ERROR    | harbourmaster.harbour:load_ports:872 - Port am2r.zip missing AM2R.sh.
+2022-03-11 07:36:58.559 | ERROR    | harbourmaster.harbour:load_ports:872 - Port apotris.zip missing Apotris.sh.
+2022-03-11 07:50:38.031 | WARNING  | __main__:main:1979 - No internet connection found, running in offline mode.
+2022-03-11 07:50:38.213 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2022-03-11 07:50:38.214 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2022-03-11 07:50:38.215 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.0.22
+2022-03-11 07:50:38.217 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.0.14
+2022-03-11 07:50:38.218 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.0.5
+2022-03-11 07:50:38.220 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.0.4
+2022-03-11 07:50:38.222 | INFO     | __main__:__init__:530 - Opened GameController 0: b'GO-Super Gamepad'
+2022-03-11 07:50:38.223 | INFO     | __main__:__init__:531 -  b'190000004b4800000011000000010000,GO-Super Gamepad,x:b0,a:b1,b:b3,y:b2,back:b8,start:b9,dpleft:h0.2,dpdown:h0.1,dpright:h0.8,dpup:h0.4,leftshoulder:b4,lefttrigger:b7,rightshoulder:b5,righttrigger:b6,leftstick:b10,guide:b12,leftx:a0,lefty:a1,rightx:a2,righty:a3,platform:Linux,'
+2022-03-11 07:50:38.279 | INFO     | __main__:__init__:592 - {'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2022-03-11 07:50:38.355 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/TF2/Tools/magicmini/PortMaster.pak/PortMaster/pylibs/default_theme/theme.json
+2022-03-11 07:50:39.382 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: launch.sh
+2022-03-11 07:50:39.384 | ERROR    | harbourmaster.harbour:load_ports:872 - Port am2r.zip missing AM2R.sh.
+2022-03-11 07:50:39.387 | ERROR    | harbourmaster.harbour:load_ports:872 - Port apotris.zip missing Apotris.sh.
+2022-03-11 07:52:23.669 | WARNING  | __main__:main:1979 - No internet connection found, running in offline mode.
+2022-03-11 07:52:23.849 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2022-03-11 07:52:23.850 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2022-03-11 07:52:23.851 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.0.22
+2022-03-11 07:52:23.853 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.0.14
+2022-03-11 07:52:23.855 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.0.5
+2022-03-11 07:52:23.856 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.0.4
+2022-03-11 07:52:23.858 | INFO     | __main__:__init__:530 - Opened GameController 0: b'GO-Super Gamepad'
+2022-03-11 07:52:23.859 | INFO     | __main__:__init__:531 -  b'190000004b4800000011000000010000,GO-Super Gamepad,x:b0,a:b1,b:b3,y:b2,back:b8,start:b9,dpleft:h0.2,dpdown:h0.1,dpright:h0.8,dpup:h0.4,leftshoulder:b4,lefttrigger:b7,rightshoulder:b5,righttrigger:b6,leftstick:b10,guide:b12,leftx:a0,lefty:a1,rightx:a2,righty:a3,platform:Linux,'
+2022-03-11 07:52:23.915 | INFO     | __main__:__init__:592 - {'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2022-03-11 07:52:23.986 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/TF2/Tools/magicmini/PortMaster.pak/PortMaster/pylibs/default_theme/theme.json
+2022-03-11 07:52:24.650 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: launch.sh
+2022-03-11 07:52:24.652 | ERROR    | harbourmaster.harbour:load_ports:872 - Port am2r.zip missing AM2R.sh.
+2022-03-11 07:52:24.655 | ERROR    | harbourmaster.harbour:load_ports:872 - Port apotris.zip missing Apotris.sh.
+2022-03-11 07:54:03.730 | WARNING  | __main__:main:1979 - No internet connection found, running in offline mode.
+2022-03-11 07:54:03.904 | INFO     | __main__:__init__:515 - PM: 2024.07.29-0950
+2022-03-11 07:54:03.906 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2022-03-11 07:54:03.907 | INFO     | __main__:__init__:517 - SDL DLL: /usr/lib/libSDL2.so,  2.0.22
+2022-03-11 07:54:03.909 | INFO     | __main__:__init__:518 - TTF DLL: /usr/lib/libSDL2_ttf.so, 2.0.14
+2022-03-11 07:54:03.910 | INFO     | __main__:__init__:519 - IMG DLL: /usr/lib/libSDL2_image.so, 2.0.5
+2022-03-11 07:54:03.912 | INFO     | __main__:__init__:520 - MIX DLL: /usr/lib/libSDL2_mixer.so, 2.0.4
+2022-03-11 07:54:03.914 | INFO     | __main__:__init__:530 - Opened GameController 0: b'GO-Super Gamepad'
+2022-03-11 07:54:03.915 | INFO     | __main__:__init__:531 -  b'190000004b4800000011000000010000,GO-Super Gamepad,x:b0,a:b1,b:b3,y:b2,back:b8,start:b9,dpleft:h0.2,dpdown:h0.1,dpright:h0.8,dpup:h0.4,leftshoulder:b4,lefttrigger:b7,rightshoulder:b5,righttrigger:b6,leftstick:b10,guide:b12,leftx:a0,lefty:a1,rightx:a2,righty:a3,platform:Linux,'
+2022-03-11 07:54:03.970 | INFO     | __main__:__init__:592 - {'device': 'rg351v', 'name': 'AmberELEC', 'version': '20211122', 'resolution': (640, 480), 'analogsticks': 1, 'cpu': 'rk3326', 'capabilities': ['armhf', 'aarch64', 'restore', '4:3', '640x480', 'AmberELEC', 'rg351v', 'analog_0', 'analog_1', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2022-03-11 07:54:04.041 | INFO     | pugtheme:theme_load:127 - Loading theme /storage/TF2/Tools/magicmini/PortMaster.pak/PortMaster/pylibs/default_theme/theme.json
+2022-03-11 07:54:04.707 | INFO     | harbourmaster.harbour:load_ports:779 - Unknown port: launch.sh
+2022-03-11 07:54:04.710 | ERROR    | harbourmaster.harbour:load_ports:872 - Port am2r.zip missing AM2R.sh.
+2022-03-11 07:54:04.713 | ERROR    | harbourmaster.harbour:load_ports:872 - Port apotris.zip missing Apotris.sh.
