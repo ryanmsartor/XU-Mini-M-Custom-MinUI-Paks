@@ -5,5 +5,3 @@
 3) Place the folders for your ports inside Tools/magicmini/PortMaster.pak.
 4) Place the shell scripts to launch your ports inside Roms/Ports. 
 
-## Known issues:
-Analog stick polarity is reversed for Ports :/
