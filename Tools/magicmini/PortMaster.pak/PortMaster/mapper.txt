@@ -43,10 +43,10 @@ function map {
     "righttrigger")     TR_NAME="righttrigger";;
     "select")           TR_NAME="back";;
     "start")            TR_NAME="start";;
-    "leftanalogup")     TR_NAME="-lefty";;
-    "leftanalogleft")   TR_NAME="-leftx";;
-    "leftanalogdown")   TR_NAME="+lefty";;
-    "leftanalogright")  TR_NAME="+leftx";;
+    "leftanalogup")     TR_NAME="+lefty";;
+    "leftanalogleft")   TR_NAME="+leftx";;
+    "leftanalogdown")   TR_NAME="-lefty";;
+    "leftanalogright")  TR_NAME="-leftx";;
     "rightanalogup")    TR_NAME="-righty";;
     "rightanalogleft")  TR_NAME="-rightx";;
     "rightanalogdown")  TR_NAME="+righty";;
