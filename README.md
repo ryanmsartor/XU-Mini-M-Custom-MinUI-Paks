@@ -5,3 +5,6 @@
 3) Place the folders for your ports inside Tools/magicmini/PortMaster.pak.
 4) Place the shell scripts to launch your ports inside Roms/Ports. 
 
+## Known Issues
+
+1) Only some PortMaster games currently working (HalfLife and AM2R known working).
