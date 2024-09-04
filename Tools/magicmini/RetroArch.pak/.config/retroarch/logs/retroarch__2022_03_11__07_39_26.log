@@ -1,0 +1,117 @@
+[INFO] RetroArch 1.17.0 (Git ad8975cb5a)
+[INFO] Saving save states in content directory is set. This overrides other save state file directory settings.
+[INFO] === Build =======================================
+[INFO] Capabilities: ASIMD 
+[INFO] Version: 1.17.0
+[INFO] Git: ad8975cb5a
+[INFO] Built: Aug  5 2024
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "udev".
+[INFO] [Core]: Loading dynamic libretro core from: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/fbneo_libretro.so"
+[INFO] [Overrides]: Content dir-specific overrides found at "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/config/FinalBurn Neo/Vertical Arcade (VARCADE).cfg".
+[INFO] [Config]: Loading config: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/retroarch.cfg".
+[INFO] [Config]: Appending override config: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/config/FinalBurn Neo/Vertical Arcade (VARCADE).cfg".
+[INFO] Saving save states in content directory is set. This overrides other save state file directory settings.
+[INFO] [Overrides]: Redirecting save file to "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/saves/Vertical Arcade (VARCADE)/aerofgt.srm".
+[INFO] [Overrides]: Redirecting save state to "/storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt.state".
+[INFO] [Remaps]: Content-dir-specific remap found at "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/config/remaps/FinalBurn Neo/Vertical Arcade (VARCADE).rmp".
+[INFO] [Environ]: GET_LOG_INTERFACE.
+[INFO] [Environ]: GET_MESSAGE_INTERFACE_VERSION.
+[INFO] [Environ]: SET_AUDIO_BUFFER_STATUS_CALLBACK.
+[INFO] [Content]: Content loading skipped. Implementation will load it on its own.
+[INFO] [Environ]: SAVE_DIRECTORY: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/saves/Vertical Arcade (VARCADE)".
+[libretro INFO] Setting save dir to /storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/saves/Vertical Arcade (VARCADE)
+[INFO] [Environ]: SYSTEM_DIRECTORY: "/storage/TF2/Tools/magicmini/RetroArch.pak/roms/bios".
+[libretro INFO] Setting system dir to /storage/TF2/Tools/magicmini/RetroArch.pak/roms/bios
+[INFO] [Environ]: SET_CONTROLLER_INFO.
+[libretro INFO] Initialize DIP switches.
+[INFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2.
+[libretro INFO] [FBNeo] Searching all possible locations for romset aerofgt
+[libretro INFO] [FBNeo] No patched romset found at /storage/TF2/Tools/magicmini/RetroArch.pak/roms/bios/fbneo/patched/aerofgt
+[libretro INFO] [FBNeo] Romset found at /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] No romset found at /storage/TF2/Tools/magicmini/RetroArch.pak/roms/bios/fbneo/aerofgt
+[libretro INFO] [FBNeo] No romset found at /storage/TF2/Tools/magicmini/RetroArch.pak/roms/bios/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0x6fdff0a2 and name 1.u4 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0x4d2c4df2 and name 538a54.124 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0x286d109e and name 1538a54.124 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0x630d8e0b and name 538a53.u9 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0x76ce0926 and name 534g8f.u18 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0xa1ef64ec and name 2.153 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0x6d42723d and name it-19-01 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] Using ROM with known crc 0xcdbbdb1d and name it-19-06 from archive /storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt
+[libretro INFO] [FBNeo] No missing files, proceeding
+[libretro INFO] [FBNeo] Samplerate set to 48000
+[libretro INFO] [FBNeo] Applied dipswitches from core options
+[libretro INFO] [FBNeo] Initialized driver for aerofgt
+[libretro INFO] [FBNeo] Adjusted audio buffer to match driver's refresh rate (60.000000 Hz)
+[libretro INFO] [Cheevos] System RAM set to 0x237870c0, size is 131072
+[INFO] [Environ]: SET_ROTATION: 1
+[INFO] [Environ]: SET_PIXEL_FORMAT: XRGB8888.
+[libretro INFO] [FBNeo] Driver aerofgt was successfully started : game's full name is Aero Fighters
+[INFO] [Replay]: Found last replay slot: #0
+[INFO] [SRAM]: Skipping SRAM load.
+[INFO] [Core]: Version of libretro API: 1, Compiled against API: 1
+[libretro INFO] [FBNeo] Timing set to 60.000000 Hz
+[INFO] [Core]: Geometry: 320x224, Aspect: 0.750, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[INFO] [Video]: Starting threaded video driver..
+[INFO] [GL]: Found GL context: "kms".
+[INFO] [GL]: Detecting screen resolution: 0x0.
+[INFO] [GL]: Vendor: ARM, Renderer: Mali-G31.
+[INFO] [GL]: Version: OpenGL ES 3.2 v1.r13p0-01rel0.8747d14aec16ec21ac2b2da252c4ec5f.
+[INFO] [GL]: Using resolution 640x480.
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[WARN] [udev]: Full-screen pointer won't be available.
+[INFO] [udev]: Keyboard #0: "rk8xx_pwrkey" (/dev/input/event0).
+[INFO] [udev]: Keyboard #1: "rg351-keys" (/dev/input/event3).
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Autoconf]: GO-Super Gamepad (18507/4352) not configured.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [Video]: Found display server: "null".
+[WARN] [udev]: Mouse grab/ungrab feature unavailable.
+[INFO] [ALSA] Using ALSA version 1.2.6.1
+[INFO] [ALSA]: Using FLOAT_LE sample format for PLAYBACK device "default"
+[INFO] [ALSA]: Period: 3 periods per buffer (1024 frames, 8192 bytes)
+[INFO] [ALSA]: Buffer size: 3072 frames (24576 bytes)
+[INFO] [ALSA]: Can pause: no.
+[INFO] [ALSA]: Initialized PLAYBACK device "default"
+[INFO] [Audio]: Started synchronous audio driver.
+[INFO] [ALSA] Using ALSA version 1.2.6.1
+[INFO] [Microphone]: Initialized microphone driver.
+[INFO] [Display]: Found display driver: "gl".
+[INFO] [Environ]: SET_SUBSYSTEM_INFO.
+[libretro INFO] [FBNeo] Unknown device type for port 0, forcing "Classic" instead
+[libretro INFO] [FBNeo] Unknown device type for port 1, forcing "Classic" instead
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_history.lpl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_music_history.lpl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_image_history.lpl".
+[INFO] [Playlist]: Loading favorites file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_favorites.lpl".
+[INFO] [Playlist]: Written to playlist file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_history.lpl".
+[INFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[INFO] Auto save state to "/storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt.state.auto" succeeded.
+[INFO] [Config]: Loading config: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/retroarch.cfg".
+[INFO] [Overrides]: Configuration overrides unloaded, original configuration restored.
+[INFO] [Config]: Saved new config to "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/retroarch.cfg".
+[INFO] [Core]: Content ran for a total of: 00 hours, 01 minutes, 32 seconds.
+[INFO] [Runtime]: Saving runtime log file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/logs/FinalBurn Neo/aerofgt.lrtl".
+[INFO] [Core]: Unloading game..
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [Core]: Saved core options file to "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/config/FinalBurn Neo/FinalBurn Neo.opt".
+[INFO] Threaded video stats: Frames pushed: 5666, Frames dropped: 1.

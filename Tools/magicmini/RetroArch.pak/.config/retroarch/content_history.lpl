@@ -9,10 +9,18 @@
   "sort_mode": 2,
   "items": [
     {
-      "path": "/storage/TF2/Roms/Nintendo 64 (N64)/Super Smash Bros. (USA).z64",
+      "path": "/storage/TF2/Roms/Vertical Arcade (VARCADE)/acrobatm.zip",
       "label": "",
-      "core_path": "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/mupen64plus_next_libretro.so",
-      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "core_path": "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/TF2/Roms/Vertical Arcade (VARCADE)/aerofgt.zip",
+      "label": "",
+      "core_path": "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "",
       "db_name": ""
     },
@@ -21,6 +29,14 @@
       "label": "",
       "core_path": "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/TF2/Roms/Nintendo 64 (N64)/Super Smash Bros. (USA).z64",
+      "label": "",
+      "core_path": "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
       "crc32": "",
       "db_name": ""
     },
