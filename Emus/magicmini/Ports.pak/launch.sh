@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# export LD_LIBRARY_PATH="/usr/bin:$LD_LIBRARY_PATH"
 TF1_dir="/roms/ports"
 TF2_dir="/storage/TF2/Tools/magicmini/PortMaster.pak"
 {
@@ -16,5 +16,13 @@ if [ -f "/storage/.config/SDL-GameControllerDB/gamecontrollerdb.txt" ]; then
 	rm -f "/storage/.config/SDL-GameControllerDB/gamecontrollerdb.txt";
 fi
 
+while :; do
+	syncsettings.elf
+done &
+LOOP_PID=$!
+
 /bin/sh $1
+
+kill $LOOP_PID
+
 } > "$TF2_dir/log.txt" 2>&1

@@ -1,0 +1,7 @@
+input_libretro_device_p1 = "1"
+input_player1_analog_dpad_mode = "1"
+input_player1_stk_r_x+ = "5"
+input_player1_stk_r_x- = "4"
+input_player1_stk_r_y+ = "6"
+input_player1_stk_r_y- = "7"
+input_remap_port_p1 = "0"

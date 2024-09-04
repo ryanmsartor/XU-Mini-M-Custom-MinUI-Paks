@@ -1,0 +1,133 @@
+[INFO] RetroArch 1.17.0 (Git ad8975cb5a)
+[INFO] === Build =======================================
+[INFO] Capabilities: ASIMD 
+[INFO] Version: 1.17.0
+[INFO] Git: ad8975cb5a
+[INFO] Built: Aug  5 2024
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "udev".
+[INFO] Cannot resolve save file path.
+[INFO] Cannot resolve save state file path.
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Version of libretro API: 1, Compiled against API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[INFO] [Video]: Starting threaded video driver..
+[INFO] [GL]: Found GL context: "kms".
+[INFO] [GL]: Detecting screen resolution: 0x0.
+[INFO] [GL]: Vendor: ARM, Renderer: Mali-G31.
+[INFO] [GL]: Version: OpenGL ES 3.2 v1.r13p0-01rel0.8747d14aec16ec21ac2b2da252c4ec5f.
+[INFO] [GL]: Using resolution 640x480.
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[WARN] [udev]: Full-screen pointer won't be available.
+[INFO] [udev]: Keyboard #0: "rk8xx_pwrkey" (/dev/input/event0).
+[INFO] [udev]: Keyboard #1: "rg351-keys" (/dev/input/event3).
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Autoconf]: GO-Super Gamepad (18507/4352) not configured.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [Video]: Found display server: "null".
+[WARN] [udev]: Mouse grab/ungrab feature unavailable.
+[INFO] [ALSA] Using ALSA version 1.2.6.1
+[INFO] [ALSA]: Using FLOAT_LE sample format for PLAYBACK device "default"
+[INFO] [ALSA]: Period: 3 periods per buffer (1024 frames, 8192 bytes)
+[INFO] [ALSA]: Buffer size: 3072 frames (24576 bytes)
+[INFO] [ALSA]: Can pause: no.
+[INFO] [ALSA]: Initialized PLAYBACK device "default"
+[INFO] [Audio]: Started synchronous audio driver.
+[INFO] [ALSA] Using ALSA version 1.2.6.1
+[INFO] [Microphone]: Initialized microphone driver.
+[INFO] [Display]: Found display driver: "gl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_history.lpl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_music_history.lpl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_image_history.lpl".
+[INFO] [Playlist]: Loading favorites file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_favorites.lpl".
+[ERROR] Failed to open libretro core: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so"
+[ERROR] Error(s): /storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so: wrong ELF class: ELFCLASS32
+[INFO] [Core]: Using content: "/storage/TF2/Roms/Nintendo 64 (N64)/Super Smash Bros. (USA).z64".
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] Threaded video stats: Frames pushed: 493, Frames dropped: 0.
+[INFO] RetroArch 1.17.0 (Git ad8975cb5a)
+[INFO] === Build =======================================
+[INFO] Capabilities: ASIMD 
+[INFO] Version: 1.17.0
+[INFO] Git: ad8975cb5a
+[INFO] Built: Aug  5 2024
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "udev".
+[INFO] [Core]: Loading dynamic libretro core from: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so"
+[ERROR] Failed to open libretro core: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so"
+Error(s): /storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so: wrong ELF class: ELFCLASS32
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core symbols..
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Version of libretro API: 1, Compiled against API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[INFO] [Video]: Starting threaded video driver..
+[INFO] [GL]: Found GL context: "kms".
+[INFO] [GL]: Detecting screen resolution: 0x0.
+[INFO] [GL]: Vendor: ARM, Renderer: Mali-G31.
+[INFO] [GL]: Version: OpenGL ES 3.2 v1.r13p0-01rel0.8747d14aec16ec21ac2b2da252c4ec5f.
+[INFO] [GL]: Using resolution 640x480.
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[WARN] [udev]: Full-screen pointer won't be available.
+[INFO] [udev]: Keyboard #0: "rk8xx_pwrkey" (/dev/input/event0).
+[INFO] [udev]: Keyboard #1: "rg351-keys" (/dev/input/event3).
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Autoconf]: GO-Super Gamepad (18507/4352) not configured.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [Video]: Found display server: "null".
+[WARN] [udev]: Mouse grab/ungrab feature unavailable.
+[INFO] [ALSA] Using ALSA version 1.2.6.1
+[INFO] [ALSA]: Using FLOAT_LE sample format for PLAYBACK device "default"
+[INFO] [ALSA]: Period: 3 periods per buffer (1024 frames, 8192 bytes)
+[INFO] [ALSA]: Buffer size: 3072 frames (24576 bytes)
+[INFO] [ALSA]: Can pause: no.
+[INFO] [ALSA]: Initialized PLAYBACK device "default"
+[INFO] [Audio]: Started synchronous audio driver.
+[INFO] [ALSA] Using ALSA version 1.2.6.1
+[INFO] [Microphone]: Initialized microphone driver.
+[INFO] [Display]: Found display driver: "gl".
+[ERROR] Failed to open libretro core: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so"
+[ERROR] Error(s): /storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/cores/parallel_n64_libretro.so: wrong ELF class: ELFCLASS32
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_history.lpl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_music_history.lpl".
+[INFO] [Playlist]: Loading history file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_image_history.lpl".
+[INFO] [Playlist]: Loading favorites file: "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/content_favorites.lpl".
+[INFO] [Config]: Saved new config to "/storage/TF2/Tools/magicmini/RetroArch.pak/.config/retroarch/retroarch.cfg".
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] Threaded video stats: Frames pushed: 1975, Frames dropped: 0.
