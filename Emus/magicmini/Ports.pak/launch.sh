@@ -21,7 +21,7 @@ while :; do
 done &
 LOOP_PID=$!
 
-/bin/sh $1
+/bin/sh "$1"
 
 kill $LOOP_PID
 
