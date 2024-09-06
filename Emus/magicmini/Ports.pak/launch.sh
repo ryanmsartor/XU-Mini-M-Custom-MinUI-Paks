@@ -16,6 +16,10 @@ if [ -f "/storage/.config/SDL-GameControllerDB/gamecontrollerdb.txt" ]; then
 	rm -f "/storage/.config/SDL-GameControllerDB/gamecontrollerdb.txt";
 fi
 
+# remove troublesome logging syntax from port launcher
+sed -i 's|> \"\$GAMEDIR\/log.txt\"|# > \"\$GAMEDIR\/log.txt\"|g' "$1"
+
+# sync volume and brightness controls to minui
 while :; do
 	syncsettings.elf >/dev/null 2>&1
 done &
