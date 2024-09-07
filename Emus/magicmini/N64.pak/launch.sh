@@ -1,17 +1,20 @@
-#!/bin/sh
-mydir=`dirname "$0"`
+#!/bin/bash
 
-export HOME=$mydir
-export PATH=$mydir:$PATH
-export LD_LIBRARY_PATH=.:$mydir/lib:/usr/miyoo/lib:$LD_LIBRARY_PATH
+HERE="$(dirname "$0")"
+BIN="$HERE/mupen64plus"
+LIB_DIR="$HERE/lib"
+CFG_DIR="$HERE/config"
 
-sv=`cat /proc/sys/vm/swappiness`
+SCREENWIDTH=640
+SCREENHEIGHT=480
+GFX="rice"
+# GFX="gl64mk2"
 
-# 60 by default
-echo 10 > /proc/sys/vm/swappiness
+while :; do
+    syncsettings.elf
+done &
+LOOP_PID=$!
 
-cd $mydir
-./mupen64plus "$1"
-sync
+"$HERE"/mupen64plus --configdir "$CFG_DIR" --gfx "mupen64plus-video-$GFX" --set Core[SharedDataPath]="$CFG_DIR" --set Video-Rice[ResolutionWidth]="$SCREENWIDTH" --set Video-General[ScreenWidth]="$SCREENWIDTH" --set Video-General[ScreenHeight]="$SCREENHEIGHT" --set Video-Glide64mk2[aspect]=2 --set Video-Glide64mk2[show_fps]=0 --set Video-Rice[ShowFPS]="False" "$1" > "$HERE/log.txt" 2>&1
 
-echo $sv > /proc/sys/vm/swappiness
+kill $LOOP_PID
