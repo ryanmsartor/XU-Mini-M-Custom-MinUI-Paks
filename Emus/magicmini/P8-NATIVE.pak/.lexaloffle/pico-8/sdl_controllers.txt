@@ -1,0 +1,2 @@
+// add SDL2 game controller mappings to this file
+1900385212b400006666000000010000,magicx-input,a:b0,b:b1,x:b2,y:b3,back:b8,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,leftx:a0,lefty:a1,lefttrigger:a2,righttrigger:a3,dpleft:b14,dpdown:b16,dpright:b15,dpup:b13,crc:5238,platform:Linux
